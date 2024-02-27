@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/63560221?v=4" align="center" height="" width="200" />
-</div>  
-  
+
 
 ### <div align="center">I'm Ferhat a student and full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
