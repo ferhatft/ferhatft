@@ -1,4 +1,6 @@
 
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
 
 ### <div align="center">I'm Ferhat a student and full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
