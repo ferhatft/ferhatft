@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning Microservices architecture and Agile Methodologies  
   
 
-- ❓ Ask me about anything related to Djang and related technologies  
+- ❓ Ask me about anything related to Django and related technologies
+
+
   
 
 <br/>  
